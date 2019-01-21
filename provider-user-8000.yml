@@ -1,0 +1,6 @@
+server:
+  port: 9081
+spring:
+  profiles: dev
+  application:
+    name: springcloud-client-9081
